@@ -1,4 +1,4 @@
-# Fraud Detection & Segmentation with ML
+# Segmentation & Fraud Detection with ML
 
 En este ejercicio se desarrolla una segmentación de clientes de un banco ficticio usando la técnica de K-Means, basandose en los parémtros RFM (Recency, Frequency y Monetary Value). Adicionalmente, se crea un modelo de clasificación para detectar operaciones de Fraude, usando el algoritmo Random Forest. 
 
